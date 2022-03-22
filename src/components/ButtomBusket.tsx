@@ -28,12 +28,16 @@ const ButtonBusket = ({text, style}) => {
             <IconAnimated style={styles.svg} />
             <Text style={styles.modalTitle}>Спасибо за Ваш заказ</Text>
             <Text style={styles.modalText}>
-              В ближайшее время мы с Вами свяжемся для уточнения деталей
-            </Text>
+              Но на данный момент это техническая демка{'\n'}
+              Если вы хотите свзаться со мной{'\n'}
+              То еще раз напишите в меню корзины:{'\n'}
+              Где адрес достаки - "связь"  {'\n'}
+              Где номер телефона, ваш телеграм аккаунт{'\n'}{'\n'}
+              И я вам обязательно отвечу</Text>
             <Pressable
               style={[styles.button, styles.buttonClose]}
               onPress={() => setModalVisible(!modalVisible)}>
-              <Text style={styles.textCloseButton}>Продолжить покупки</Text>
+              <Text style={styles.textCloseButton}>Закрыть окно</Text>
             </Pressable>
           </View>
         </View>
