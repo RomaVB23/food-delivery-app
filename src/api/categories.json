@@ -1,0 +1,38 @@
+[
+  {
+      "id": 1,
+      "name": "Шаверма",
+      "url": "https://drive.google.com/uc?export=download&id=1hkm9SX0iSMmVqS8VCh--bXKAma5dkH3r"
+  },
+
+  {
+    "id": 2,
+    "name": "Салаты",
+    "url": "https://drive.google.com/uc?export=download&id=1wAy_IRdsjBOAKyM_ydhRobQdBjPY8btA"
+  },
+
+  {
+    "id": 3,
+    "name": "Гарниры",
+    "url": "https://drive.google.com/uc?export=download&id=1ejJRCLE5Ifkq6lLQqQL_XpyEd4-PJ7WI"
+  },
+
+  {
+    "id": 4,
+    "name": "Десерты",
+    "url": "https://drive.google.com/uc?export=download&id=1XRSzhDYjgULbCVkYauxWIc28XQHuDLy6"
+  },
+
+  {
+    "id": 5,
+    "name": "Напитки",
+    "url": "https://drive.google.com/uc?export=download&id=1q15v3KZzcDKmG5gSdrGvkWzMcwsQZBKJ"
+  },
+
+  {
+    "id": 6,
+    "name": "Соусы",
+    "url": "https://drive.google.com/uc?export=download&id=1V99ccYS0iutfV6mVA9je0c9ZEC88WYn4"
+  }
+
+]

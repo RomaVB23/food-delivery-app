@@ -1,0 +1,9 @@
+com/romav/fooddeliverydemo/MainApplication.java
+ com.romav.fooddeliverydemo.MainApplication
+ com.romav.fooddeliverydemo.MainApplication$1
+com/romav/fooddeliverydemo/BuildConfig.java
+ com.romav.fooddeliverydemo.BuildConfig
+com/romav/fooddeliverydemo/MainActivity.java
+ com.romav.fooddeliverydemo.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

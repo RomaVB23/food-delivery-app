@@ -1,0 +1,386 @@
+[
+  {
+      "id": 11,
+      "name": "Шаверма Фирменная",
+      "description": "Лаваш, куриное мясо, помидоры, огурец, капуста, фирменный соус, сыр, лук красный, 400 гр", 
+      "price": 250,
+      "category": 1,
+      "url" : "https://drive.google.com/uc?export=download&id=1Mncc25XFMTfoXcSAwXkqkuy9eY5pTC8H",
+      "selected" : false,
+      "quantity" : 1
+  },
+  
+  {
+    "id": 12,
+    "name": "Шаверма Классическая",
+    "description":"Лаваш, куриное мясо, помидоры, огурец, капуста, кетчуп, сметана, лук красный, 400 гр", 
+    "price": 220,
+    "category": 1,
+    "url" : "https://drive.google.com/uc?export=download&id=1SbsFA1gu8M3llRX3eblaO2AJ2O_kxG73",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 13,
+    "name": "Шаверма Сырная",
+    "description":"Лаваш, куриное мясо, помидоры, огурец, капуста, фирменный соус, сыр, сыр Чеддер, лук красный, 420 гр", 
+    "price": 280,
+    "category": 1,
+    "url" : "https://drive.google.com/uc?export=download&id=1pi7aB--vMQE4VVQjs5Gm75Ce2e5qsOQy",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 14,
+    "name": "Шаверма Вегетариантская",
+    "description":"Лаваш, шампиньоны, овощи-гриль, помидоры, огурец, капуста, фирменный соус, лук красный, 400 гр", 
+    "price": 250,
+    "category": 1,
+    "url" : "https://drive.google.com/uc?export=download&id=1RfOiXjTiKWZJFyMqCIVuQy0yXrelFkcc",
+    "selected" : false,
+    "quantity" : 1
+  },  
+  {
+    "id": 15,
+    "name": "Шаверма Говядина",
+    "description": "Лаваш, мраморная говядина, помидоры, огурец, капуста, фирменный соус, сыр, лук красный, 400 гр", 
+    "price": 300,
+    "category": 1,
+    "url" : "https://drive.google.com/uc?export=download&id=1ma6tfFwTN4uuvyo65v2m91PhEmQdfKgK",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 16,
+    "name": "Шаверма Мексиканская",
+    "description": "Лаваш, куриное мясо, кукурцза, помидоры, огурец, капуста, острый соус, сыр, лук красный, 400 гр",  
+    "price": 250,
+    "category": 1,
+    "url" : "https://drive.google.com/uc?export=download&id=1kB8PcwPN0mbg504tHLWRqYSPZ4I_2c4e",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 17,
+    "name": "Шаверма на тарелке",
+    "description":"Лаваш, куриное мясо, помидоры, огурец, капуста, кетчуп, сметана, лук красный, 400 гр", 
+    "price": 250,
+    "category": 1,
+    "url" : "https://drive.google.com/uc?export=download&id=1hem7tAlWLvXpsFCvImhvYlJerHMF6wGf",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 18,
+    "name": "Шаверма в пите",
+    "description":"Пита, куриное мясо, помидоры, огурец, капуста, кетчуп, сметана, лук красный, 440 гр",
+    "price": 250,
+    "category": 1,
+    "url" : "https://drive.google.com/uc?export=download&id=1IqOnTbrwxnMNUpHwQmZL5ly1WexX6s9J",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 21,
+    "name": "Греческий салат",
+    "description":"Салат айсберг, болгарский перец, маслины, томаты, сыр фета, огурец, лук красный, ростки подсолнечника, итальянская заправка", 
+    "price": 150,
+    "category": 2,
+    "url" : "https://drive.google.com/uc?export=download&id=1hBI_MDxHNiNn-NVDy-wJnPrR9XgkkUHQ",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 22,
+    "name": "Витаминный салат",
+    "description":"Лук красный, морковь, перец чили, лук порей, капуста белокачанная, уксус, сахар, зелень петрушки", 
+    "price": 100,
+    "category": 2,
+    "url" : "https://drive.google.com/uc?export=download&id=15i44Jgvbmzoyw3PhShujmtObAcqxDsn7",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 23,
+    "name": "Цезарь с курицей",
+    "description":"Филе грудки цыплёнка, салат ромейн, салат айсберг, яйцо, сыр пармезан, томаты черри, гренки, соус цезарь", 
+    "price": 150,
+    "category": 2,
+    "url" : "https://drive.google.com/uc?export=download&id=1rlyCPLFsa9osqTGgpy0q_64B2u5OpNrc",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 24,
+    "name": "Цезарь с креветками",
+    "description":"Салат ромейн, салат айсберг, тигровые креветки, яйцо, сыр пармезан, томаты черри, гренки, соус цезарь", 
+    "price": 250,
+    "category": 2,
+    "url" : "https://drive.google.com/uc?export=download&id=1jyP7xpTqD0RSHKQAwwo_fPrOHWLQyFB7",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 25,
+    "name": "Салат с лососем",
+    "description":"Лосось холодного копчения, микс салат, томаты, яйцо, картофель, лук конфи, заправка нисуаз", 
+    "price": 250,
+    "category": 2,
+    "url" : "https://drive.google.com/uc?export=download&id=11VtYfov6_ISp7tgPmhMzWAHrXq4WDELO",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 26,
+    "name": "Чука (морские водоросли)",
+    "description":"Водоросли чука, ореховый соус, кунжут", 
+    "price": 150,
+    "category": 2,
+    "url" : "https://drive.google.com/uc?export=download&id=14EXXfrvTdvsqkFHwV4QB5rk9xuPyEGpx",
+    "selected" : false,
+    "quantity" : 1
+    },
+
+  {
+    "id": 31,
+    "name": "Рис отварной",
+    "description":"Рис отварной", 
+    "price": 50,
+    "category": 3,
+    "url" : "https://drive.google.com/uc?export=download&id=1Az9jhCMGF6NFXz8a-EEw-oZyJ9tHeVgY",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 32,
+    "name": "Картофельные дольки",
+    "description": "Картофель, масло, травы сушеные", 
+    "price": 50,
+    "category": 3,
+    "url" : "https://drive.google.com/uc?export=download&id=1rPjLwNFOGh4oIzTqGD6tyzaeDHgRj1Jq",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 33,
+    "name": "Картофель фри",
+    "description": "Картофель, масло", 
+    "price": 50,
+    "category": 3,
+    "url" : "https://drive.google.com/uc?export=download&id=1q8l9VKxqJeNnxF2oqv3nEOrrtORRmqEo",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 34,
+    "name": "Картофельное пюре",
+    "description": "Картофель, молоко, масло сливочное", 
+    "price": 50,
+    "category": 3,
+    "url" : "https://drive.google.com/uc?export=download&id=1DTI-s5OG1eszeOgY5IeFJWff3LlKD88o",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 35,
+    "name": "Лапша",
+    "description": "Лапша пшеничная", 
+    "price": 50,
+    "category": 3,
+    "url" : "https://drive.google.com/uc?export=download&id=10pLlFu1hx85t3KXyPXPMyTtevoGRLTG0",
+    "selected" : false,
+    "quantity" : 1
+  },
+
+  {
+    "id": 41,
+    "name": "Дессерт Манго",
+    "description": "Манго пюре, сливки, сыр творожный, желатин, печенье, клубника, мята", 
+    "price": 200,
+    "category": 4,
+    "url" : "https://drive.google.com/uc?export=download&id=1n8UByBlCyFEMRfAcg_7TcBrtBU8cOXag",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 42,
+    "name": "Сырники с джемом",
+    "description": "Творог, мука, сметана, сахарная пудра, растительное масло, сметана, малиновый джем", 
+    "price": 200,
+    "category": 4,
+    "url" : "https://drive.google.com/uc?export=download&id=1JYfa6DZpDG8q6rY1CdBKIhiQpu3pJyGR",
+    "selected" : false,
+    "quantity" : 1
+  }, 
+  {
+    "id": 43,
+    "name": "Сладкие роллы",
+    "description": "Бананы и персики со сливочным сыром в шоколадно-блинном тесте, вишней и сливочной карамелью, крошка безе, мята. Примечание по доставке: вишня доставляется в отдельном боксе", 
+    "price": 200,
+    "category": 4,
+    "url" : "https://drive.google.com/uc?export=download&id=1vsWYqeqrUCwCYnbOEWITeDjMid9wbYwX",
+    "selected" : false,
+    "quantity" : 1
+  }, 
+  {
+    "id": 44,
+    "name": "Чизкейк",
+    "description": "Печенье, масло сливочное, сироп, сыр сливочный, сахарная пудра, сливки, шоколад, мята, соус черничный", 
+    "price": 200,
+    "category": 4,
+    "url" : "https://drive.google.com/uc?export=download&id=1-svb9cVmkSNBuSeUtJ7pWekrso8Er2gf",
+    "selected" : false,
+    "quantity" : 1
+  }, 
+  {
+    "id": 45,
+    "name": "Эклер с черникой",
+    "description":"Эклер с заварным кремом и черничным вареньем", 
+    "price": 100,
+    "category": 4,
+    "url" : "https://drive.google.com/uc?export=download&id=1TBdgz-hHy51UPV2oiv_0aXMeLPGJQD54",
+    "selected" : false,
+    "quantity" : 1
+  },
+  
+  {
+    "id": 51,
+    "name": "Вода без газа 0,5 л",
+    "description":"Вода без газа 0,5 л",
+    "price": 100,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=1rO9eqDdXPrJwrO_xDQwoqq9p2VXhb03N",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 52,
+    "name": "Вода газированная 0,5 л",
+    "description":"Вода газированная 0,5 л", 
+    "price": 100,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=1UMdXAQBdpMErpegYpRQvKWIu0x61Zdxt",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 53,
+    "name": "Pepsi 0,5 л",
+    "description":"Pepsi 0,5 л",
+    "price": 100,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=1ol8PTsGNT0Wwc7Pnn2Gu3UgIKc-fkCu-",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 54,
+    "name": "Сок яблочный 1л",
+    "description":"Сок яблочный 1л", 
+    "price": 200,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=1lExQNYtFtAddzzdb9oSw2gwCj7gojdlx",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 55,
+    "name": "Сок апельсиновый 1л",
+    "description": "Сок апельсиновый 1л",
+    "price": 200,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=1o4zjgt0NfapJxHgXHIRbJ69Eypn5jTQw",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 56,
+    "name": "Сок томатный 1л",
+    "description": "Сок томатный 1л",
+    "price": 200,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=h1SztpijL3C3ztod5wqr_NmqQxLXzYirw8",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 57,
+    "name": "Лимонад домашний 0,5 л",
+    "description": "Лимонад домашний 0,5 л", 
+    "price": 100,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=1vTLaTRzCUPK3ibWWiVrpQBZNjwb3qwKw",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 58,
+    "name": "Смузи ягодный 0,5 л",
+    "description":"Смузи ягодный 0,5 л", 
+    "price": 150,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=1dZHw9KJt18Y5N5GMnS0XFkZ2qZybkIsa",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 59,
+    "name": "Смузи манго 0,5 л",
+    "description": "Смузи манго 0,5 л",
+    "price": 150,
+    "category": 5,
+    "url" : "https://drive.google.com/uc?export=download&id=1Ja0scRumEIGlYSeQWBnYPUEIkqIlaZgG",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 61,
+    "name": "Соус сырный",
+    "description": "Соус сырный 30 гр.", 
+    "price": 50,
+    "category": 6,
+    "url" : "https://drive.google.com/uc?export=download&id=1aDP_4X4G4KG2zfTKXzqqXJgBfuGnu5Ux",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 62,
+    "name": "Соус Цезарь",
+    "description":"Соус Цезарь 30 гр.", 
+    "price": 50,
+    "category": 6,
+    "url" : "https://drive.google.com/uc?export=download&id=1K4C7Fj6mzPtDW2UkXzfCuSXH57bTozYZ",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 63,
+    "name": "Соус Терияки",
+    "description":"Соус Терияки 30 гр.", 
+    "price": 50,
+    "category": 6,
+    "url" : "https://drive.google.com/uc?export=download&id=1FvS3d3QxiLhodmyj1tHFniI3u1xSW-SS",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 64,
+    "name": "Острый соус",
+    "description": "Острый соус 30 гр.",
+    "price": 50,
+    "category": 6,
+    "url" : "https://drive.google.com/uc?export=download&id=1LMmxmIQIwSnIhQaVXEHSgrR70Zevl0qV",
+    "selected" : false,
+    "quantity" : 1
+  },
+  {
+    "id": 65,
+    "name": "Итальянский соус",
+    "description":"Итальянский соус 30 гр.",
+    "price": 50,
+    "category": 6,
+    "url" : "https://drive.google.com/uc?export=download&id=1YEW9JizChU1xBW-659D8LQBy8J5rtM2M",
+    "selected" : false,
+    "quantity" : 1
+  }
+]
